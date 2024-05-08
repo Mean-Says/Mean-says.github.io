@@ -81,3 +81,21 @@ body{
 #Titulo_Manut{
     color: white;
 }
+
+@media screen and (max-width: 799px){
+    #Navegacao_header{
+    
+        width: 100%;
+        justify-content: center;
+        height: 4rem;
+        display: flex;
+        margin: 0 auto;
+        align-items: center;
+    }
+    #Home{
+        background-color: #95a5a6;
+        height: 720px;
+        padding-top: 10rem;
+        padding-left: 2rem;
+    }
+}
