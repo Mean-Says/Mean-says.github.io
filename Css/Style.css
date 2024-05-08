@@ -1,0 +1,83 @@
+body{
+    font-weight: bold;
+    margin: 0 0 0 0;
+    font-family: "roboto mono", sans-serif;
+    
+}
+#Header{
+    background-color: #8b0000;
+    height: 4rem;
+    margin: 0 0 0 0;
+}
+#Navegacao_header{
+    
+    width: 70%;
+    justify-content: center;
+    height: 4rem;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+#Navegacao_header a{
+    color: white;
+    margin: 0 auto;
+    text-decoration: none;
+    
+}
+#Home{
+    background-color: #95a5a6;
+    height: 720px;
+    padding-top: 10rem;
+    padding-left: 6rem;
+}
+#Primeiro_titulo{
+    color: black;
+    font-size: 3rem ;
+    margin-bottom: 0;   
+}
+
+#Segundo_titulo{
+    color: white;
+    font-size: 4rem;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+#Home p{
+    color: white;
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+#Navegacao_about{
+    height: auto;
+    padding: 8px 4px 8px 4px;
+}
+#Navegacao_about a{
+    color: white;
+    text-decoration: none;    
+    padding: 8px 4px 8px 4px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#Att{
+    background-color: #8b0000;
+    border: solid 1px #8b0000;
+}
+#Att2{
+    border: solid 2px #8b0000;
+    margin-left: 20px;
+}
+
+#Sobre, #Servicos,#Projetos, #Contato{
+    height: 720px;
+    background-color: #8b0000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Imagem_manutencao{
+    height: 250px;
+}
+#Titulo_Manut{
+    color: white;
+}
