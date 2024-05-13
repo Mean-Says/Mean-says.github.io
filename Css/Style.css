@@ -170,6 +170,11 @@ body{
     width: 100%;
 }
 #Projetos h1{
+    padding-top: 100px;
+    color: black;
+    
+}
+#Projetos p{
     color: white;
 }
 .Imagem_manutencao{
