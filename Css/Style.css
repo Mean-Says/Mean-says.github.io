@@ -116,7 +116,7 @@ body{
 
 
 #Servicos{
-    height: 720px;
+    height: fit-content;
     display: block;
     justify-content: space-between;
     align-items: center;
@@ -218,10 +218,17 @@ body{
     #Navegacao_header a{
         padding: 5px;
     }
+    #Sobremim img{
+        width: 3rem;
+    }
     #servicos{
         width: 100%;
+        height: fit-content;
     }
     #Firstchoice{
         width: 90%;
+    }
+    #Projetos{
+        width: 100%;
     }
 }
